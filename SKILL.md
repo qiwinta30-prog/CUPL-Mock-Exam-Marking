@@ -1,9 +1,9 @@
 ---
-name: grade-cupl-civil-procedure
+name: cupl-mock-exam-marking
 description: 批改中国政法大学考研专业课文字答案或文档，支持宪法、法理、民法和民事诉讼法。用于名词解释、简答题、论述题、比较题和案例题的知识校正、采分点分析、正确答案重写、答题逻辑诊断与方法论点拨；先判定学科并隔离资料，再依据用户合法提供的同科资料和可靠法律知识完成批改。
 ---
 
-# 中国政法大学考研专业课批改
+# CUPL Mock Exam Marking
 
 ## 开始前
 
