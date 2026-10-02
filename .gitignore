@@ -1,0 +1,6 @@
+output/
+:memory:.ses
+.DS_Store
+**/__pycache__/
+*.pyc
+grade-cupl-civil-procedure/
